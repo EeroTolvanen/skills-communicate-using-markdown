@@ -9,3 +9,8 @@ This is normal text
 ``` javascript
 var myVar = "Hello, dogs!";
 ```
+
+# Task list
+- [ ] Do the skills pages
+- [ ] Apply for certification
+- [ ] Crush that cert!
